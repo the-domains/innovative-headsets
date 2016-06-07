@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-07T17:38:56.949Z'
+datePublished: '2016-06-07T17:38:59.620Z'
 sourcePath: _posts/2016-04-16-wearable-sun-protection.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
   - jumbled
 related: []
 author: []
-dateModified: '2016-06-07T17:38:55.940Z'
+dateModified: '2016-06-07T17:38:59.366Z'
 title: Wearable Sun Protection
 app_links: []
 publisher:
